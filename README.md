@@ -2,11 +2,11 @@
 
 A simple dice game built with HTML, CSS, and JavaScript as part of a web development learning course.
 
-## э│Э About
+## About
 
 This project is based on Jonas Schmedtmann's Pig Game tutorial from his JavaScript course. I've made several modifications and enhancements to the original code to practice and demonstrate my understanding of JavaScript concepts.
 
-## э╛о How to Play
+## How to Play
 
 **Objective:** Be the first player to reach 100 points.
 
@@ -17,7 +17,7 @@ This project is based on Jonas Schmedtmann's Pig Game tutorial from his JavaScri
 4. Players can choose to "hold" their current score at any time, adding it to their total score and passing the turn.
 5. The first player to reach 100 total points wins!
 
-## э╗ая╕П Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -33,7 +33,7 @@ This project is based on Jonas Schmedtmann's Pig Game tutorial from his JavaScri
 - "New Game" functionality to reset play
 - Score tracking
 
-## э╛У Learning Objectives
+## Learning Objectives
 
 This project was created as part of a learning journey to understand:
 
@@ -44,5 +44,4 @@ This project was created as part of a learning journey to understand:
 - CSS styling and animations
 - Responsive web design principles
 
-## э│Б Project Structure
 
