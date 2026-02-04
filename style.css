@@ -37,6 +37,7 @@ section.player {
     flex-direction: column;
     align-items: center;
     padding: 9rem;
+    transition: all 0.75s;  
 }   
 
 h2.name {

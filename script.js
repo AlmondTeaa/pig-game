@@ -10,6 +10,7 @@ let playing = true;
 let scores, activePlayer;
 
 function init () {
+    playing = true;
     dice.classList.add("hidden");
     scores = [0,0]; 
     activePlayer = 0;
